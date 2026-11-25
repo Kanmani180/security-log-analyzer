@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-11-25T09:11:54.827921+00:00",
+  "total_failed_attempts": 7,
+  "high_severity_alerts": 1,
+  "brute_force_suspects": [
+    {
+      "source_ip": "185.220.101.4",
+      "failed_attempts": 4,
+      "severity": "HIGH",
+      "targeted_users": [
+        "admin",
+        "root"
+      ]
+    }
+  ]
+}
